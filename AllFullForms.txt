@@ -1,0 +1,80 @@
+Short questions unit vise 
+
+Unit :- 1
+VIRUS:- Vital Information Resources Under Seize
+SEC:- Securities And Exchange Commission
+EDGAR:- Electronic Data Gathering, Analysis, And Retrieval System
+CIA:- Confidentiality Integrity And Availability
+DOS:- Denial Of Service
+DDOS:- Distributed Denial Of Service
+POD:- Ping Of Death
+ICMP:- Internet Control Message Protocol
+TCP/IP:- Transmission Control Protocol/Internet Protocol
+
+NIC:- Network Interface Controller
+
+
+Unit :-2 
+MAC:- Media Access Control
+MIM:- Man In The Middle
+MALWARE:- Malicious Software - Most Imp
+
+Unit :-3
+MD:- Message Digest
+SHA:- Secure Hash Algorithm
+FIPS:- Federal Information Processing Standard
+PKI:- Public Key Infrastructure
+RA:- Registration Authorities
+CA:- Certificate Authorities
+DMV:- Department of Motor Vehicles
+IETF:- Internet Engineering Task Force
+PKIX:- Public Key Infrastructure for X.509 certificate
+SGC:- Server-Gated Cryptography
+
+Unit:- 4
+UDP: User Datagram Protocol
+MTU: Maximum Transmission Unit
+HTTP: Hyper Text Transfer Protocol
+TELNET: Telecommunication Network
+FTP: File Transfer Protocol
+SMTP: Simple Mail Transfer Protocol
+SOCKS: Socket Secure
+KDC: Key Distribution Centre
+AS: Authentication Server
+TGS: Ticket Granting Server
+TGT: Ticket Granting Ticket
+ST: Service Ticket
+IMAP: Internet Message Access Protocol
+CPs: Certification Practices Statement
+AH: Authentication Header
+ATM: Asynchronous Transfer Mode
+DOl: Domain Of Interpretation
+DMZ: De Militarized Zone
+ESP: Encapsulating Security Payload
+HOST-DEBIAN: Host-Debian
+HOST-SAM: Host-Snell Advanced Media
+IPSec: IP Security
+ISP: Internet Service Provider
+IP: Internet Protocol
+Nmap: Network Mapper
+POP3: Post Office Protocol Version 3
+VPN: Virtual Private Network
+VLAN: Virtual Local Area Network
+
+Unit:- 5
+DES: Data Encryption Standard
+HIPS: Host Intrusion Prevention System
+HIDS: Host Intrusion Detection System
+IDS: Intrusion Detection System
+IPS: Intrusion Prevention System
+IOS: Internetwork Operating System
+MAC: Message Authentication Code
+MARS: Monitoring, Analysis, and Response System
+PGP: Pretty Good Privacy
+RSA: Rivest-Shamir-Adleman
+SA: Security Agent
+SNMP: Simple Network Management Protocol
+S/MIME: Secure/Multipurpose Internet Mail Extensions
+SSL: Secure Sockets Layer
+SET: Secure Electronic Transaction
+TLS: Transport Layer Security
